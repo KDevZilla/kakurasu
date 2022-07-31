@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kakurasu", "Kakurasu\Kakurasu.csproj", "{6AEB8BC2-3E26-4BC8-B609-C038D64FFA9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KakurasuTest", "KakurasuTest\KakurasuTest.csproj", "{C345D870-1E86-40F8-9D16-AF880ECC589D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AEB8BC2-3E26-4BC8-B609-C038D64FFA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEB8BC2-3E26-4BC8-B609-C038D64FFA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEB8BC2-3E26-4BC8-B609-C038D64FFA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEB8BC2-3E26-4BC8-B609-C038D64FFA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C345D870-1E86-40F8-9D16-AF880ECC589D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C345D870-1E86-40F8-9D16-AF880ECC589D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C345D870-1E86-40F8-9D16-AF880ECC589D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C345D870-1E86-40F8-9D16-AF880ECC589D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180B9E1B-0C94-4077-AED3-783F74F8B5DA}
+	EndGlobalSection
+EndGlobal
